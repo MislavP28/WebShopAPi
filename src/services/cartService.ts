@@ -43,6 +43,7 @@ class CartService {
         'kupac.kupacDostava.adresa.grad',
         'proizvodKupacs',
         'proizvodKupacs.proizvod',
+        "proizvodKupacs.proizvod.slikas",
         'racun',
       ],
       where: {
